@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --clean --console --name "MTLauncher"  "launcherqt6.py"
